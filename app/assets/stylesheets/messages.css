@@ -119,4 +119,27 @@
   background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
+  display: flex;
+}
+
+.send-messages{
+  background-color: white;
+  width: 100%;
+}
+
+.input-text{
+  padding-left: 10px;
+  height: 50px;
+  border: none;
+  width: 100%;
+}
+
+.submit-btn{
+  background-color: #38aef0;
+  font-size: 16px;
+  color: white;
+  margin-left: 15px;
+  height: 50px;
+  border: none;
+  padding: 0 20px;
 }
